@@ -1,6 +1,9 @@
 <img align="right" src="https://count.getloli.com/get/@:ZZSZSZSZZ?theme=rule34">
 
 # 𝗜'𝗺 ZZSZSZSZZ ٩(๑>◡<๑)۶
+
+[![](https://img.shields.io/badge/ZZSZSZSZZ-4169E1?logo=bilibili&logoColor=%23F8F8FF)](https://space.bilibili.com/383048468)
+
 **带着创意和乐趣，打造独特的个人项目 😜**
 
 ### Github 活跃度
