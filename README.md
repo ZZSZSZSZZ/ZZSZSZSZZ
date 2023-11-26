@@ -2,7 +2,7 @@
 
 # 𝗜'𝗺 ZZSZSZSZZ ٩(๑>◡<๑)۶
 
-[![](https://img.shields.io/badge/ZZSZSZSZZ-4169E1?logo=bilibili&logoColor=%23F8F8FF)](https://space.bilibili.com/383048468)
+[![](https://img.shields.io/badge/罐头喵Fantase-4169E1?logo=bilibili&logoColor=%23F8F8FF)](https://space.bilibili.com/383048468)
 
 **带着创意和乐趣，打造独特的个人项目 😜**
 
