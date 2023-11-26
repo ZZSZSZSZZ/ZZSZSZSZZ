@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:zzszszszz?theme=rule34">
 
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 ZZSZSZSZZ ٩(๑>◡<๑)۶
+# 𝗜'𝗺 ZZSZSZSZZ ٩(๑>◡<๑)۶
 **带着创意和乐趣，打造独特的个人项目 😜**
 
 ### Github 活跃度
