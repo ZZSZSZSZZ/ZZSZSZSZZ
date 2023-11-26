@@ -10,5 +10,4 @@
 ### Github 活跃度
 
 ![zzszszszz's github stats](https://github-readme-stats.vercel.app/api?username=ZZSZSZSZZ&count_private=true&show_icons=true&rank_icon=github&theme=radical)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZSZSZSZZ&theme=radical&layout=compact">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZSZSZSZZ&layout=compact&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321">
