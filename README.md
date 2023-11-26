@@ -1,4 +1,4 @@
-![image](https://github.com/ZZSZSZSZZ/ZZSZSZSZZ/assets/52644741/69715f2a-9981-4ac8-b06d-1e677d4f7d92)<img align="right" src="https://count.getloli.com/get/@:ZZSZSZSZZ?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:ZZSZSZSZZ?theme=rule34">
 
 ## [![zzszszszz's Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=480&lines=+%F0%9D%97%9C'%F0%9D%97%BA+ZZSZSZSZZ+%D9%A9(%E0%B9%91%3E%E2%97%A1%3C%E0%B9%91)%DB%B6;Welcome+to+my+Repositories)](https://github.com/ZZSZSZSZZ)
 
@@ -11,3 +11,4 @@
 
 ![zzszszszz's github stats](https://github-readme-stats.vercel.app/api?username=ZZSZSZSZZ&count_private=true&show_icons=true&rank_icon=github&theme=radical)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZSZSZSZZ&layout=compact&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321">
+
